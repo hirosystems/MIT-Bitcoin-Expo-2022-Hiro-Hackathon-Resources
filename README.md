@@ -113,4 +113,4 @@ Wrapped assets are super helpful for interoperability and are how networks can c
 - [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) | Explore transactions, accounts and smart contracts on Stacks. Experiment with your contracts on-chain, in real time.
 - [Clarity for VSCode](https://marketplace.visualstudio.com/items?itemName=HiroSystems.clarity-lsp) | This VSCode extension provides useful language features like auto complete, go to definition, find all references etc.
 - [Hiro Developer Documentation](https://docs.hiro.so/) | Collection of resources for learning Clarity, as well as tutorials and example apps.
-- [Stacks Developer Documentation](https://docs.stacks.co/) Knowledge base for builders getting started on Stacks.
+- [Stacks Developer Documentation](https://docs.stacks.co/) | Knowledge base for builders getting started on Stacks.
