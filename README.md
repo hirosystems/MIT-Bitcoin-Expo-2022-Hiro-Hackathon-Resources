@@ -105,10 +105,12 @@ Friedger describes swapping a Boombox NFT for mainnet Bitcoin.
 [Exploring the Possibilities of Wrapped Bitcoin (xBTC) on Stacks by Hiro Team](https://www.hiro.so/blog/exploring-the-possibilities-of-wrapped-bitcoin-xbtc-on-stacks)
 Wrapped assets are super helpful for interoperability and are how networks can connect L1 tokens with DeFi. On the Stacks network, Bitcoin is bridged into xBTC by wrapping it. Now users have xBTC as a token on the Stacks network, and they can connect xBTC to DeFi applications.
 
-### Hiro Tools to Get You Started
+### Tools to Get You Started
 - [Clarinet](https://www.hiro.so/clarinet) | Everything you need to write, test, integrate and deploy Clarity smart contracts.
 - [Hiro Wallet](https://www.hiro.so/wallet) | Store, stack and connect with apps in the Stacks ecosystem, from your browser or on your desktop.
 - [Stacks API](https://www.hiro.so/stacks-api) | Interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
 - [Stacks.js](https://www.hiro.so/stacks-js) | The essential JavaScript libraries for apps on Stacks.
 - [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) | Explore transactions, accounts and smart contracts on Stacks. Experiment with your contracts on-chain, in real time.
 - [Clarity for VSCode](https://marketplace.visualstudio.com/items?itemName=HiroSystems.clarity-lsp) | This VSCode extension provides useful language features like auto complete, go to definition, find all references etc.
+- [Hiro Developer Documentation](https://docs.hiro.so/) | Collection of resources for learning Clarity, as well as tutorials and example apps.
+- [Stacks Developer Documentation](https://docs.stacks.co/) Knowledge base for builders getting started on Stacks.
