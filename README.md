@@ -5,23 +5,19 @@ Some resources and educational materials to get hackers started building on Stac
 ![Hiro @ MIT Bitcoin Expo 2022](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/abe9e957dd54d7c29f32b1a44bf94680428fd80a/Hiro%20@%20MIT%20Bitcoin%20Expo%202022.jpg)
 
 ## 💡Project Ideas
-#### My First Clarity Smart Contract
+#### [My First Clarity Smart Contract](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#my-first-clarity-smart-contract-1)
 Learn the essentials of the Clarity smart contract language for the Stacks Blockchain, and develop a basic smart contract that demonstrates fundamental functionality and a beginner understanding of the language. 
 
-#### Build a Bitcoin NFT
+#### [Build a Bitcoin NFT](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#nfts-non-fungible-tokens)
 Develop any platform or dApp component that uses the SIP-009 non-fungible token standard, written in Clarity, on the Stacks blockchain. Hackers could pursue a new NFT or collection, a marketplace for decentralized NFT management, or even an analytic dashboard to monitor the Stacks NFT market and network health. 
 
-#### Develop a DeFi dApp
+#### [Develop a DeFi dApp](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#defi-decentralized-finance)
 DeFi (Decentralized Finance) enables a multitude of novel financial mechanisms like decentralized exchanges, yield farming, stablecoins, derivatives, crypto credit, and asset management. Teams could develop a component of Decentralized Finance (DeFi) built on Stacks, that runs on Clarity smart contracts. 
 
-#### The Stacks <> Bitcoin Connection
+#### [The Stacks <> Bitcoin Connection](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#stacks--bitcoin-connection)
 The Stacks Blockchain has a unique purview into the Bitcoin network, and synergy with BTC due to it powering the Stacks consensus mechanism. There have already been a handful of examples out in the community, experimenting with different ways Stacks and Bitcoin can interact. Hackers could choose to build any component of a decentralized application, or smart contract, that utilizes both the Stacks and Bitcoin networks, and performs some cross-chain functionality. 
 
-## Stacks Track Resource Pack
-- My First Clarity Smart Contract
-- NFTs (Non-Fungible Tokens)
-- DeFi (Decentralized Finance)
-- Stacks <> Bitcoin Connection
+---
 
 ### My First Clarity Smart Contract
 You may have considered building on blockchain in the past, but smart contract development appeared intimidating and unapproachable with user funds on the line. Fortunately, the Clarity smart contract language on Stacks is LISP-based and very easy to grok for beginner devs and expert engineers alike. We wanted to give hackers an opportunity to hack on the Stacks track, even if they’re questioning if they have enough experience to create a more robust submission.
