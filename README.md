@@ -2,7 +2,7 @@
 ### Hiro Hackathon Resources
 Some resources and educational materials to get hackers started building on Stacks at the MIT Bitcoin Expo 2022 Hackathon
 
-![Hiro @ MIT Bitcoin Expo 2022](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/aa461ddb8878f91463ca6c0da92ac8ed9ec19861/hiro-mit-hackathon-splash.jpeg)
+![Hiro @ MIT Bitcoin Expo 2022](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/bfe9b2f243e224f1a2e1c6b1f459f49a86b0f954/hiro-mit-hackathon-splash.png)
 
 ## 💡Project Ideas
 #### ⤵️ [My First Clarity Smart Contract](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#my-first-clarity-smart-contract-1)
