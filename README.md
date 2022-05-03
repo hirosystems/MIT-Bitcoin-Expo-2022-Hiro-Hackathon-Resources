@@ -69,8 +69,6 @@ Good luck! Here at Stacks, we always say that the internet isn’t going to dece
 
 Happy Hacking!
 
----
-
 ## 💡Project Ideas
 #### ⤵️ [My First Clarity Smart Contract](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#my-first-clarity-smart-contract-1)
 Learn the essentials of the Clarity smart contract language for the Stacks Blockchain, and develop a basic smart contract that demonstrates fundamental functionality and a beginner understanding of the language. 
