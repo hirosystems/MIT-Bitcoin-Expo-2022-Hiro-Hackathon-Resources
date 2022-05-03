@@ -44,7 +44,7 @@ Once you’ve laid the groundwork, and your ready to start truly building, follo
 - [Simple Web App Tutorial - Billboard](https://docs.hiro.so/example-apps/billboard)
 - [Contract Deployment Tips](https://docs.stacks.co/build-apps/deploy-tips)
 
-### Stacks Network Statistics
+### 📊 Stacks Network Statistics
 
 During your development, you may have the need to investigate the blockchain for various metrics and data. There are a handful of awesome community sites that allow for advanced analytics of activity on Stacks.
 - [Stacks Data](https://stacksdata.info/)
@@ -70,6 +70,7 @@ Good luck! Here at Stacks, we always say that the internet isn’t going to dece
 Happy Hacking!
 
 ## 💡Project Ideas
+To get you started, here are four popular categories of projects found in the Stacks ecosystem. Sometimes it's easier to get started building with a use case in mind! Hopefully some of these examples help with the brainstorming process, and show you the possibilities of all the things hackers can build. 
 #### ⤵️ [My First Clarity Smart Contract](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#my-first-clarity-smart-contract-1)
 Learn the essentials of the Clarity smart contract language for the Stacks Blockchain, and develop a basic smart contract that demonstrates fundamental functionality and a beginner understanding of the language. 
 
@@ -84,7 +85,7 @@ The Stacks Blockchain has a unique purview into the Bitcoin network, and synergy
 
 ---
 
-### My First Clarity Smart Contract
+### 🏫 My First Clarity Smart Contract
 You may have considered building on blockchain in the past, but smart contract development appeared intimidating and unapproachable with user funds on the line. Fortunately, the Clarity smart contract language on Stacks is LISP-based and very easy to grok for beginner devs and expert engineers alike. We wanted to give hackers an opportunity to hack on the Stacks track, even if they’re questioning if they have enough experience to create a more robust submission.
 
 We want you to build your first Clarity smart contract! It can be fairly basic, as long as it demonstrates that you took the hackathon to absorb Clarity education resources and documentation. There are hundreds of samples, templates, boilerplates, or just example Clarity smart contract files on Github. One of the best ways to learn is find and get familiar with a smart contract in the wild, fork it, and then tweak it incrementally into something totally new that achieves functionality you desire. 
@@ -96,7 +97,7 @@ We want you to build your first Clarity smart contract! It can be fairly basic, 
 - [NFT](https://docs.hiro.so/tutorials/clarity-nft)
 - [Stacks Foundation Clarity Book](https://book.clarity-lang.org/)
 
-### NFTs (Non-Fungible Tokens)
+### 🖼️ NFTs (Non-Fungible Tokens)
 Develop any platform or piece of technology that uses the SIP-009 non-fungible token standard, written in Clarity, on the Stacks blockchain. 
 
 #### Potential Submissions:
@@ -118,7 +119,7 @@ In this post, Hiro Engineer Rafael Cardenas breaks down the NFT endpoints in the
 [Bitcoin NFTs Explained: What They Are, How They Work, and Why You Should Build Them by Max Crawford](https://www.hiro.so/blog/bitcoin-nfts-explained-what-they-are-how-they-work-and-why-you-should-build-them)
 Bitcoin NFTs are a concept that many developers are just now discovering is possible thanks to the Stacks blockchain, which is a programmable layer for Bitcoin.
 
-### DeFi (Decentralized Finance)
+### 💱 DeFi (Decentralized Finance)
 DeFi is a new financial ecosystem, built on blockchain, in which users are totally in control of their funds, platforms are decentralized, and there is no barrier to entry like accredited investor status or brokerage fees. It enables a plethora of financial mechanisms like decentralized exchanges, yield farming, stablecoins, derivatives, crypto credit, and asset management. Hacker could develop a component of Decentralized Finance (DeFi) built on Stacks, that runs on Clarity smart contracts. Another option would be to build a dashboard that analyzes DeFi market statistics on Stacks. 
 
 [Breaking Down DeFi Code Snippets in Clarity by Joe Bender](https://www.hiro.so/blog/breaking-down-defi-code-snippets-in-clarity)
@@ -135,7 +136,7 @@ Building DeFi on top of Bitcoin makes sense as the base layer is the most unchan
 - [ALEX](https://www.alexgo.io/)
 - [Stackswap](https://app.stackswap.org/v2)
 
-### Stacks <> Bitcoin Connection
+### 🔄 Stacks <> Bitcoin Connection
 The Stacks Blockchain has a unique purview into the Bitcoin network, and synergy with BTC due to it powering the Stacks consensus mechanism. There have already been a handful of examples out in the community, experimenting with different ways Stacks and Bitcoin can interact. We want hackers to build any component of a decentralized application, or smart contract, that utilizes both the Stacks and Bitcoin networks and performs some cross-chain functionality. 
 
 #### Examples and Research to get you started with the Stacks <> Bitcoin connection:
@@ -166,7 +167,7 @@ Friedger describes swapping a Boombox NFT for mainnet Bitcoin.
 [Exploring the Possibilities of Wrapped Bitcoin (xBTC) on Stacks by Hiro Team](https://www.hiro.so/blog/exploring-the-possibilities-of-wrapped-bitcoin-xbtc-on-stacks)
 Wrapped assets are super helpful for interoperability and are how networks can connect L1 tokens with DeFi. On the Stacks network, Bitcoin is bridged into xBTC by wrapping it. Now users have xBTC as a token on the Stacks network, and they can connect xBTC to DeFi applications.
 
-### Tools to Get You Started
+### 🛠️ Tools to Get You Started
 - [Clarinet](https://www.hiro.so/clarinet) | Everything you need to write, test, integrate and deploy Clarity smart contracts.
 - [Hiro Wallet](https://www.hiro.so/wallet) | Store, stack and connect with apps in the Stacks ecosystem, from your browser or on your desktop.
 - [Stacks API](https://www.hiro.so/stacks-api) | Interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
