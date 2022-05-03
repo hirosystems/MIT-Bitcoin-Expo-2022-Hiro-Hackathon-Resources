@@ -59,10 +59,8 @@ It takes a village to raise a blockchain! 30 hours is also a very short time for
 
 The best way to receive assistance, is the Stacks Discord server. It’s where all of the most experiences Stacks builders hang out, swap ideas, and troubleshoot obstacles. I’d encourage any hacker interested in the Stacks Track to be sure to join the server, introduce themselves, and post any questions. The community is super friendly and always willing to lend a helping hand. 
 
-#### [💬 Stacks Discord Server](https://discord.com/invite/YWa8BmKqvR)
-
 <a align="center" href="https://discord.com/invite/YWa8BmKqvR">
-  <img src="https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/48a7ec766e595bf3bcb56f847917538fe8e034bb/Discord%20Image%20Link.png" alt="Stacks Discord Server"/>
+  <img src="https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/4835f6b47d8b4b106dd58642cf09f7cfd5b5ce6b/discord.png" alt="Stacks Discord Server"/>
 </a>
 
 Additionally, if you are on-site at MIT in Cambridge, [Joe Bender](https://twitter.com/JosephBender) and [Elena Giralt](https://twitter.com/elenita_tweets) from Hiro will be at the venue manning the Hiro booth. Definitely stop by, say hello, grab a sticker, and they can also help point devs in the right direction for help with the Stacks Track. 
