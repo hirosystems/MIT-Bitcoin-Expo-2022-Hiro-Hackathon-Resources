@@ -85,12 +85,12 @@ The Stacks Blockchain has a unique purview into the Bitcoin network, and synergy
 
 ---
 
-### 🏫 My First Clarity Smart Contract
+### 🚀 My First Clarity Smart Contract
 You may have considered building on blockchain in the past, but smart contract development appeared intimidating and unapproachable with user funds on the line. Fortunately, the Clarity smart contract language on Stacks is LISP-based and very easy to grok for beginner devs and expert engineers alike. We wanted to give hackers an opportunity to hack on the Stacks track, even if they’re questioning if they have enough experience to create a more robust submission.
 
 We want you to build your first Clarity smart contract! It can be fairly basic, as long as it demonstrates that you took the hackathon to absorb Clarity education resources and documentation. There are hundreds of samples, templates, boilerplates, or just example Clarity smart contract files on Github. One of the best ways to learn is find and get familiar with a smart contract in the wild, fork it, and then tweak it incrementally into something totally new that achieves functionality you desire. 
 
-#### Tutorials
+#### 📖 Tutorials
 - [Hello World](https://docs.hiro.so/tutorials/clarity-hello-world)
 - [Counter](https://docs.hiro.so/tutorials/clarity-counter)
 - [Billboard](https://docs.hiro.so/tutorials/clarity-billboard)
