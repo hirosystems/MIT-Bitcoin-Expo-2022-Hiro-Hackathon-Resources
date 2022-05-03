@@ -10,11 +10,11 @@ Stacks uses the [**proof-of-transfer**](https://docs.stacks.co/understand-stacks
 
 One final special benefit of Stacks is its smart contract programming language, [Clarity](https://clarity-lang.org/). Ethereum’s Solidity language proved the potential and desire for expressive web3 applications over the last few years, but it is buggy, hard to learn, and easy for beginners to overlook potential attack vectors. Stacks’ smart contract framework, Clarity, was designed explicitly to overcome some of the shortcomings and vulnerabilities that have been observed around the crypto industry. It’s turing-incompleteness prevents the chaotic and variable gas markets that have made Ethereum so inaccessible to retail consumers. It’s also based on LISP, a familiar language that allows newcomers to easily translate experience with parenthetical architectures to Clarity. 
 
-Dapps, DeFi, DAOs, NFTs, memecoins, it’s all possible on Stacks with Clarity and a little bit of creativity. 
+Dapps, DeFi, DAOs, NFTs, memecoins, it’s all possible on Stacks with Clarity and a little bit of creativity ✨
 
 ### 📚 Stacks 101
 
-If you are totally new to Stacks, you may want to learn a bit about what makes it special and how it’s pushing forward Bitcoin innovation. Check out the links below to learn the high-level fundamentals:
+If you are totally new to Stacks, you may want to learn a bit about what makes it special and how it’s pushing forward Bitcoin innovation. Check out the links below to learn the high-level fundamentals.
 
 [Stacks 101 Introduction](https://www.stacks.co/learn/introduction)
 
@@ -50,6 +50,17 @@ During your development, you may have the need to investigate the blockchain for
 - [Stacks on Novum Insights](https://stacks.novuminsights.com/)
 - [Hiro Status Page](https://status.hiro.so/)
 
+### 🛠️ Hiro Tools to Get You Started
+- [Clarinet](https://www.hiro.so/clarinet) | Everything you need to write, test, integrate and deploy Clarity smart contracts.
+- [Hiro Wallet](https://www.hiro.so/wallet) | Store, stack and connect with apps in the Stacks ecosystem, from your browser or on your desktop.
+- [Stacks API](https://www.hiro.so/stacks-api) | Interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
+- [Stacks.js](https://www.hiro.so/stacks-js) | The essential JavaScript libraries for apps on Stacks.
+- [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) | Explore transactions, accounts and smart contracts on Stacks. Experiment with your contracts on-chain, in real time.
+- [Clarity for VSCode](https://marketplace.visualstudio.com/items?itemName=HiroSystems.clarity-lsp) | This VSCode extension provides useful language features like auto complete, go to definition, find all references etc.
+- [Hiro Developer Documentation](https://docs.hiro.so/) | Collection of resources for learning Clarity, as well as tutorials and example apps.
+- [Stacks Developer Documentation](https://docs.stacks.co/) | Knowledge base for builders getting started on Stacks.
+
+
 ### 🆘 Getting Help
 
 It takes a village to raise a blockchain! 30 hours is also a very short time for anyone to grok a totally new technology framework. The Stacks and Hiro communities are here to help! We have engineers standing by virtually to offer mentorship and help you plow through those engineering obstacles. 
@@ -67,7 +78,7 @@ Good luck! Here at Stacks, we always say that the internet isn’t going to dece
 Happy Hacking!
 
 ## 💡Project Ideas
-To get you started, here are four popular categories of projects found in the Stacks ecosystem. Sometimes it's easier to get started building with a use case in mind! Hopefully some of these examples help with the brainstorming process, and show you the possibilities of all the things hackers can build. 
+To get you started, here are four categories of projects that could be elligble for submissions. Sometimes it's easier to get started building with a use case in mind! Hopefully some of these examples help with the brainstorming process, and show you the possibilities of all the things hackers can build on Stacks. 
 #### ⤵️ [My First Clarity Smart Contract](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources#my-first-clarity-smart-contract-1)
 Learn the essentials of the Clarity smart contract language for the Stacks Blockchain, and develop a basic smart contract that demonstrates fundamental functionality and a beginner understanding of the language. 
 
@@ -85,17 +96,16 @@ The Stacks Blockchain has a unique purview into the Bitcoin network, and synergy
 ### 🚀 My First Clarity Smart Contract
 You may have considered building on blockchain in the past, but smart contract development appeared intimidating and unapproachable with user funds on the line. Fortunately, the Clarity smart contract language on Stacks is LISP-based and very easy to grok for beginner devs and expert engineers alike. We wanted to give hackers an opportunity to hack on the Stacks track, even if they’re questioning if they have enough experience to create a more robust submission.
 
-We want you to build your first Clarity smart contract! It can be fairly basic, as long as it demonstrates that you took the hackathon to absorb Clarity education resources and documentation. There are hundreds of samples, templates, boilerplates, or just example Clarity smart contract files on Github. One of the best ways to learn is find and get familiar with a smart contract in the wild, fork it, and then tweak it incrementally into something totally new that achieves functionality you desire. 
+We want you to build your first Clarity smart contract! It can be somewhat rudimentary, as long as it demonstrates that you took the hackathon to fully absorb Clarity education resources and documentation. There are hundreds of samples, templates, boilerplates, or just example Clarity smart contract files on Github. One of the best ways to learn is find and get familiar with a smart contract in the wild, fork it, and then tweak it incrementally into something totally new that achieves functionality you desire. Submissions can be _simple_, but **must** implement custom, working Clarity code. A basic smart contract can still exhibit creative problem solving, and showcase a comprehensive understanding of Clarity's core principles. 
 
 #### 📖 Tutorials
 - [Hello World](https://docs.hiro.so/tutorials/clarity-hello-world)
 - [Counter](https://docs.hiro.so/tutorials/clarity-counter)
 - [Billboard](https://docs.hiro.so/tutorials/clarity-billboard)
 - [NFT](https://docs.hiro.so/tutorials/clarity-nft)
-- [Stacks Foundation Clarity Book](https://book.clarity-lang.org/)
 
 ### 🖼️ NFTs (Non-Fungible Tokens)
-Develop any platform or piece of technology that uses the SIP-009 non-fungible token standard, written in Clarity, on the Stacks blockchain. 
+Develop any platform or piece of technology that uses the [SIP-009 non-fungible token standard](https://github.com/stacksgov/sips/blob/main/sips/sip-009/sip-009-nft-standard.md), written in Clarity, on the Stacks blockchain. The Stacks NFT ecosystem has exploded the last year, and there are [hundreds](https://byzantion.xyz/collections) of interesting collections with awesome art and powerful underlying tech. There are even [DeFi NFTs](https://boom.money/boomboxes) that act as certificates for yield redemption! It's just [four simple Clarity functions](https://explorer.stacks.co/txid/0x80eb693e5e2a9928094792080b7f6d69d66ea9cc881bc465e8d9c5c621bd4d07?chain=mainnet) that declare a smart contract as an NFT on Stacks, and then it's a blank canvas for how you personalize the art or implement the tech. 
 
 #### Potential Submissions:
 - An individual NFT
@@ -117,7 +127,7 @@ In this post, Hiro Engineer Rafael Cardenas breaks down the NFT endpoints in the
 Bitcoin NFTs are a concept that many developers are just now discovering is possible thanks to the Stacks blockchain, which is a programmable layer for Bitcoin.
 
 ### 💱 DeFi (Decentralized Finance)
-DeFi is a new financial ecosystem, built on blockchain, in which users are totally in control of their funds, platforms are decentralized, and there is no barrier to entry like accredited investor status or brokerage fees. It enables a plethora of financial mechanisms like decentralized exchanges, yield farming, stablecoins, derivatives, crypto credit, and asset management. Hacker could develop a component of Decentralized Finance (DeFi) built on Stacks, that runs on Clarity smart contracts. Another option would be to build a dashboard that analyzes DeFi market statistics on Stacks. 
+DeFi is a new financial ecosystem, built on blockchain, in which users are totally in control of their funds, platforms are decentralized, and there is no barrier to entry like accredited investor status or brokerage fees. It enables a plethora of financial mechanisms like decentralized exchanges, yield farming, stablecoins, derivatives, crypto credit, and asset management. Hacker teams could develop a component of Decentralized Finance (DeFi) built on Stacks, that runs on Clarity smart contracts. Another somewhat "read-only" option would be to build a dashboard that analyzes DeFi market statistics on Stacks, leveraging an API to query the blockchain for various health metrics or reporting. 
 
 [Breaking Down DeFi Code Snippets in Clarity by Joe Bender](https://www.hiro.so/blog/breaking-down-defi-code-snippets-in-clarity)
 Take a look at the DeFi capabilities of Clarity with a few examples.
@@ -163,13 +173,3 @@ Friedger describes swapping a Boombox NFT for mainnet Bitcoin.
 
 [Exploring the Possibilities of Wrapped Bitcoin (xBTC) on Stacks by Hiro Team](https://www.hiro.so/blog/exploring-the-possibilities-of-wrapped-bitcoin-xbtc-on-stacks)
 Wrapped assets are super helpful for interoperability and are how networks can connect L1 tokens with DeFi. On the Stacks network, Bitcoin is bridged into xBTC by wrapping it. Now users have xBTC as a token on the Stacks network, and they can connect xBTC to DeFi applications.
-
-### 🛠️ Tools to Get You Started
-- [Clarinet](https://www.hiro.so/clarinet) | Everything you need to write, test, integrate and deploy Clarity smart contracts.
-- [Hiro Wallet](https://www.hiro.so/wallet) | Store, stack and connect with apps in the Stacks ecosystem, from your browser or on your desktop.
-- [Stacks API](https://www.hiro.so/stacks-api) | Interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
-- [Stacks.js](https://www.hiro.so/stacks-js) | The essential JavaScript libraries for apps on Stacks.
-- [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) | Explore transactions, accounts and smart contracts on Stacks. Experiment with your contracts on-chain, in real time.
-- [Clarity for VSCode](https://marketplace.visualstudio.com/items?itemName=HiroSystems.clarity-lsp) | This VSCode extension provides useful language features like auto complete, go to definition, find all references etc.
-- [Hiro Developer Documentation](https://docs.hiro.so/) | Collection of resources for learning Clarity, as well as tutorials and example apps.
-- [Stacks Developer Documentation](https://docs.stacks.co/) | Knowledge base for builders getting started on Stacks.
