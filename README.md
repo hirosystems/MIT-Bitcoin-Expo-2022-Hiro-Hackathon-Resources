@@ -2,6 +2,7 @@
 ![Hiro @ MIT Bitcoin Expo 2022](https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources/blob/bfe9b2f243e224f1a2e1c6b1f459f49a86b0f954/hiro-mit-hackathon-splash.png)
 
 ## ℹ️ Overview
+#### 🏆 Stacks Track: $2,500 to the best project built on Stacks. 
 Hello Hacker!
 
 Thanks for checking out the Stacks Track. It’s one of the best opportunities at the MIT Bitcoin Expo hackathon to experiment with web3 on Bitcoin. The [**Stacks blockchain**](https://www.stacks.co/) is a unique implementation of a smart contract-enabled decentralized network, and developers are praising the short learning curve for beginners and high functionality ceiling for experts. [**Hiro**](https://www.hiro.so/) builds developer tooling for the Stacks ecosystem. We're excited to sponsor the Stacks track bounty and see what crazy crypto creations teams submit this year for the hackathon.
